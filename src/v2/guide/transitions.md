@@ -1261,6 +1261,7 @@ new Vue({
 .list-complete-leave-active {
   position: absolute;
 }
+/* 这里过渡的实现并没有使用v-move呀!这里怎样理解?*/
 </style>
 {% endraw %}
 
